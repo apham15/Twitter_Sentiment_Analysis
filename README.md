@@ -1,4 +1,8 @@
 # Twitter_Sentiment_Analysis
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1Cz0w8z4IWivmNacHSOBPnD_x7A6gXIca?usp=sharing)
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/apham15/Amazon_Fine_Food_Review/blob/main/amazon%20food%20review.ipynb)
+
 [Twitter](https://twitter.com/) is an American microblogging and social networking service on which users post and interact with messages known as "tweets". Registered users can post, like and retweet tweets, but unregistered users can only read them
 The dataset belongs to Standford University, Since I cannot find the original source but research papers, I use the dataset that public on [Kaggle](https://www.kaggle.com/kazanova/sentiment140)
 
